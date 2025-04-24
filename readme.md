@@ -15,7 +15,7 @@ Scalable Design: Modular code structure for easy extension (e.g., adding new cro
 
 Dataset
 
-Source: PlantVillage Dataset
+Source: PlantVillage Dataset (https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset/data)
 Details: ~54,000 high-resolution RGB images of healthy and diseased plant leaves, covering 38 classes across crops like Apple, Grape, and Tomato.
 Organization: Images are stored in class-specific subdirectories for easy integration with TensorFlow’s ImageDataGenerator.
 
