@@ -554,7 +554,7 @@ TRANSLATIONS = {
         "disease_info_header": "📋 Disease Information",
         "symptoms_header": "🔍 Symptoms",
         "treatment_header": "💊 Treatment & Management",
-        "footer_text": "🌱 Plant Disease Classifier | Powered by Deep Learning & AI",
+        "footer_text": "🌱 Plant Disease Classifier ",
         "disclaimer": "For educational purposes only. Consult agricultural experts for serious infestations."
     },
     "Hindi": {
