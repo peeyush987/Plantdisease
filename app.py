@@ -4,7 +4,7 @@ from PIL import Image
 import numpy as np
 import tensorflow as tf
 import streamlit as st
-from googletrans import Translator
+from deep_translator import GoogleTranslator
 
 # Page Configuration
 st.set_page_config(
@@ -74,7 +74,12 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # Initialize translator
-translator = Translator()
+def translate_to_hindi(text):
+    try:
+        translation = GoogleTranslator(source='en', target='hi').translate(text)
+        return translation
+    except:
+        return text
 
 # Session state for language
 if 'language' not in st.session_state:
