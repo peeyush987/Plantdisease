@@ -527,9 +527,18 @@ TRANSLATIONS = {
         
         **Supported Plants:**
         - Apple
+        - Blueberry
+        - Cherry
         - Corn (Maize)
         - Grape
+        - Orange
+        - Peach
+        - Pepper bell
         - Potato
+        - Raspberry
+        - Soybean
+        - Squash
+        - Strawberry
         - Tomato
         
         **Features:**
@@ -567,9 +576,18 @@ TRANSLATIONS = {
         
         **समर्थित पौधे:**
         - सेब
+        - ब्लूबेरी 
+        - चेरी 
         - मक्का
         - अंगूर
+        - संतरा 
+        - आड़ू 
+        - शिमला मिर्च 
         - आलू
+        - रसभरी 
+        - सोयाबीन 
+        - कद्दू 
+        - स्ट्रॉबेरी 
         - टमाटर
         
         **विशेषताएं:**
